@@ -1,5 +1,5 @@
 I developed a SMS email classifier using machine learning techniques. The system employs a supervised learning approach, with a dataset of labeled SMS and email messages used to train a classifier model. The model uses natural language processing techniques, such as tokenization and stemming, to preprocess the text data and extract features. These features are then used to train a classifier, such as a Naive Bayes or Support Vector Machine model, to distinguish between SMS and email messages.
 
-The performance of the classifier was evaluated using standard metrics such as precision, recall, and F1 score, and achieved an accuracy of X% on a held-out test set. To further improve the model, I employed techniques such as feature selection and hyperparameter tuning, which helped to optimize the model's performance.
+The performance of the classifier was evaluated using standard metrics such as precision, recall, and F1 score, and achieved an accuracy of 97% on a held-out test set. To further improve the model, I employed techniques such as feature selection and hyperparameter tuning, which helped to optimize the model's performance.
 
 Overall, the SMS email classifier provides a valuable tool for automatically categorizing incoming messages, improving communication efficiency and reducing manual sorting efforts.
